@@ -160,5 +160,5 @@ cython_debug/
 #.idea/
 
 # Custom files
-datasets/fallData.csv
-datasets/springData.csv
+datasets/*
+models/*
